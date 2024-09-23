@@ -1,0 +1,8 @@
+Creado por Guillermo Calderón Martínez
+Proyecto personal para trabajar HTML5, CCS3 y JS (Modernizr.js):
+caracteristicas:
+-CSS3: 
+--Utilizamos la organizacion BEM para trabajar el estilo
+--Se pone en practica desde display Grid y FlexBox
+--Se utiliza la tecnología nomarlize.css para todos los navegadores
+--Diseño responsive para para dispositvos de 768px
